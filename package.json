@@ -1,0 +1,19 @@
+{
+  "name": "lt1337",
+  "version": "1.0.0",
+  "description": "Background Generator",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LMT1337/LT1337.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LMT1337/LT1337/issues"
+  },
+  "homepage": "https://github.com/LMT1337/LT1337#readme"
+}

@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LMT1337/LT1337/issues"
   },
-  "homepage": "https://github.com/LMT1337/LT1337#readme"
+  "homepage": "https://github.com/LMT1337/LT1337#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }

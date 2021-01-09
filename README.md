@@ -1,5 +1,4 @@
 # LT1337
 
-Background Generator
+CSS Background Generator
 
-Generates a background
